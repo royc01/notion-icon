@@ -1,5 +1,7 @@
 # notion-icon
 ![preview](https://raw.githubusercontent.com/royc01/notion-icon/main/preview.png)
+# 2.2.1
+* 适配同步图标
 # 2.2
 * 重构大部分图标
 * 适配新版图标
